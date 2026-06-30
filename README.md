@@ -69,31 +69,6 @@ CSV and tab-separated data both work. You can paste, upload a file, or load the 
 
 Everything is implemented in vanilla JavaScript in a single file — no external libraries, no network calls.
 
----
-
-## Publish your own copy (GitHub Pages)
-
-1. Create a new repository on GitHub and add these files (`index.html`, `sample-data.csv`, `README.md`, `LICENSE`, `CONTRIBUTING.md`).
-   ```bash
-   git init
-   git add .
-   git commit -m "Item Calibrator"
-   git branch -M main
-   git remote add origin https://github.com/<you>/item-calibrator.git
-   git push -u origin main
-   ```
-2. On GitHub, open **Settings → Pages**.
-3. Under **Build and deployment → Source**, choose **Deploy from a branch**, select branch **main** and folder **/ (root)**, then **Save**.
-4. After a minute your site is live at `https://<you>.github.io/item-calibrator/`.
-
-Because the app is a single static file, it also works on Netlify, Cloudflare Pages, GitLab Pages, or any web server — just serve `index.html`.
-
----
-
-## Contributing
-
-Contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). Good first additions include a 3PL model (guessing parameter), Rasch fit statistics (infit/outfit), distractor analysis for multiple-choice options, and translations of the interface copy.
-
 ## License
 
 Released under the [MIT License](LICENSE). Free to use, adapt, and share, including in schools and districts.
