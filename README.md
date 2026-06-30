@@ -1,4 +1,5 @@
 # Item Calibrator · 试题校准器
+<img width="2168" height="1316" alt="image" src="https://github.com/user-attachments/assets/386f23bb-ecbd-476d-b96e-dbdb8e4d25a2" />
 
 **See how your test questions performed — in your browser, for free.**
 **看清每道试题的表现 — 免费，且全程在你的浏览器中完成。**
