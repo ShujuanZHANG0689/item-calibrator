@@ -1,8 +1,9 @@
 # Item Calibrator · 试题校准器
-<img width="2168" height="1316" alt="image" src="https://github.com/user-attachments/assets/386f23bb-ecbd-476d-b96e-dbdb8e4d25a2" />
 
 **See how your test questions performed — in your browser, for free.**
 **看清每道试题的表现 — 免费，且全程在你的浏览器中完成。**
+
+<img width="2168" height="1316" alt="image" src="https://github.com/user-attachments/assets/386f23bb-ecbd-476d-b96e-dbdb8e4d25a2" />
 
 Item Calibrator is a single-page web app that takes a grid of student scores and tells you which questions on a test worked, which were too easy or too hard, and which to fix. It also estimates each student's ability and shows how well the whole test is targeted to your class.
 
